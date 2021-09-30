@@ -1,2 +1,2 @@
 # AnimalGitDemo
-Git demo for SE
+Git demo for the Software Engineering lab
